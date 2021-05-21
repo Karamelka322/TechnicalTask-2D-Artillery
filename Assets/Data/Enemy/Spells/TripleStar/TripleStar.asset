@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e0a41f3de16c56140bcbdbee4e49e438, type: 3}
+  m_Name: TripleStar
+  m_EditorClassIdentifier: 
+  _icon: {fileID: -5579805923388517736, guid: 78ad7cedd2ddf63489d9816055e2e8fa, type: 3}
+  _spellEffect: {fileID: 6609747238763564351, guid: 8b427d79922b65d4f83136d605c98ddb,
+    type: 3}
+  _bullet: {fileID: 2142160729927812613, guid: e0f96857f3a58c640a8cb8132733b47a, type: 3}
+  _offsetY: 3
+  _delayBetweenBullets: 0.5

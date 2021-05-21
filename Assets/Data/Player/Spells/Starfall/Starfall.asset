@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b8f20899a35a2824280960cd13174def, type: 3}
+  m_Name: Starfall
+  m_EditorClassIdentifier: 
+  _icon: {fileID: 1883411355426553100, guid: 78ad7cedd2ddf63489d9816055e2e8fa, type: 3}
+  _spellEffect: {fileID: 5353770316432016893, guid: 220a1d4065703ce41bd8b032ba98f6c9,
+    type: 3}
+  _bullet: {fileID: 2142160729927812613, guid: b1522d89d7b7b3c40a694d359665c0b5, type: 3}
+  _offsetY: 2

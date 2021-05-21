@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6548c5e32c1a5184ba675b5b91d63fcd, type: 3}
+  m_Name: Tornado
+  m_EditorClassIdentifier: 
+  _icon: {fileID: 8254303833696124656, guid: 78ad7cedd2ddf63489d9816055e2e8fa, type: 3}
+  _spellEffect: {fileID: 8278337457080738397, guid: 92ace1f0acb731e4080e1d8b51be82c3,
+    type: 3}
+  _bullet: {fileID: 2142160729927812613, guid: 00df1a067708dd04ab87d79bcb834de4, type: 3}
+  _circleTriggerPrefab: {fileID: 5384526457880409562, guid: 9882cda3ccb390b4a94a0805d8cf0ab4,
+    type: 3}
+  _tornadoEffectPrefab: {fileID: 2436085383306638509, guid: ba4c1461c56a2fe4787507f274350089,
+    type: 3}
+  _force: 150
+  _lifeTime: 5
+  _radius: 3

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1c70d06f65de73f42b8627acf2486342, type: 3}
+  m_Name: Storm
+  m_EditorClassIdentifier: 
+  _icon: {fileID: 8931180619824851031, guid: 78ad7cedd2ddf63489d9816055e2e8fa, type: 3}
+  _spellEffect: {fileID: -4880072843090000467, guid: 522f69bedef7dbd46b7ccd9d852052ba,
+    type: 3}
+  _bullet: {fileID: 2142160729927812613, guid: b88a90aafa394234ba76a16439fee276, type: 3}
+  _offsetY: 15
